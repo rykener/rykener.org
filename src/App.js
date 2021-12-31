@@ -1,4 +1,6 @@
 import './App.css';
+import About from './About.js';
+import Contact from './Contact.js';
 import {
   BrowserRouter as Router,
   Switch,
@@ -15,6 +17,9 @@ function App() {
             <span className="brand">eleanor rykener</span>
           </Link>
           <div className="flex-container">
+            SITE UNDER CONSTRUCTION
+          </div>
+          <div className="flex-container">
             <Link to="/shop">shop</Link>
             <Link to="/about">about</Link>
             <Link to="/contact">contact</Link>
@@ -24,7 +29,6 @@ function App() {
 
 
       <div className="main">
-        <h1>coming soon</h1>
         <Switch>
           <Route path="/about">
             <About />
@@ -46,14 +50,6 @@ function App() {
 
 function Home() {
   return <h2>Home</h2>;
-}
-
-function About() {
-  return <h2>About</h2>;
-}
-
-function Contact() {
-  return <h2>Contact</h2>;
 }
 
 function Shop() {
