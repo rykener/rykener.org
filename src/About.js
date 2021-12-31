@@ -1,5 +1,3 @@
-import three from "./img/03.png";
-
 function About() {
   return (
     <div class="narrow-content">
