@@ -3,6 +3,7 @@ import About from './About.js';
 import Contact from './Contact.js';
 import Shop from './Shop.js';
 import Zine from './Zine.js';
+import Explanations from './Explanations.js';
 import {
   BrowserRouter as Router,
   Switch,
@@ -25,6 +26,7 @@ function App() {
             <Link to="/shop">shop</Link>
             <Link to="/about">about</Link>
             <Link to="/contact">contact</Link>
+            <a href="https://instagram.com/eleanor.rykener">instagram</a>
           </div>
         </div>
       </div>
@@ -43,6 +45,9 @@ function App() {
           </Route>
           <Route path="/zine">
             <Zine />
+          </Route>
+          <Route path="/explain">
+            <Explanations />
           </Route>
           <Route path="/">
             <Shop />
