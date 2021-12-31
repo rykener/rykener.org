@@ -35,3 +35,16 @@
   max-width: 400px;
   margin: 0 auto;
 }
+
+.medium-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.zine {
+  text-align: center;
+}
+
+.zine img {
+  max-width: 400px;
+}

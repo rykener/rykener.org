@@ -1,6 +1,8 @@
 import './App.css';
 import About from './About.js';
 import Contact from './Contact.js';
+import Shop from './Shop.js';
+import Zine from './Zine.js';
 import {
   BrowserRouter as Router,
   Switch,
@@ -39,21 +41,16 @@ function App() {
           <Route path="/shop">
             <Shop />
           </Route>
+          <Route path="/zine">
+            <Zine />
+          </Route>
           <Route path="/">
-            <Home />
+            <Shop />
           </Route>
         </Switch>
       </div>
     </Router>
   );
-}
-
-function Home() {
-  return <h2>Home</h2>;
-}
-
-function Shop() {
-  return <h2>Shop</h2>;
 }
 
 export default App;

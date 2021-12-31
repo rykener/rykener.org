@@ -13,12 +13,12 @@ function About() {
       <p>
         then one day i drew this:
       </p>
-      <img src={three} alt="a bald trans woman, laying on the floor. she's on the phone with the caption: well last time i called you said laser was covered."/>
+      <img src={three} alt="a bald naked trans woman, laying on the floor. she's on the phone with the caption: well last time i called you said laser was covered."/>
       <p>
         though initially without the speech bubble or the stubble. i contemplated what someone would be saying on the phone with that look on her face. after that it all just started pouring out of me, and i made the 13 panels for the zine in about a week. i’m really delighted to be sharing this work with others. it has been exceptionally cathartic for me to make this, and i hope that some trans people who read it can find that catharsis as well.
       </p>
       <p>
-        this was never intended to be "high art". it was always about being seen.
+        it was always about being seen.
       </p>
       <p>stay gay,<br/>eleanor</p>
     </div>
