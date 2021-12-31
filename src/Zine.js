@@ -8,9 +8,7 @@ function Zine() {
         <p>
           "trans people talk about insurance" is a collection of single panel comics that are sometimes funny, cathartic, and more then a little meloncholy. they are intended to help trans folks struggling with the medical system feel less alone. all the while, cis allies can learn from the stories and experiences printed inside. 16 pages, printed on 100lb card stock. free shipping for the usa.
         </p>
-      <a href="#" onClick={() => {
-        alert("not yet for sale")
-      }}><h2>$10 - click here to buy on etsy</h2></a>
+      <h2>$10 - click here to buy on etsy</h2>
     </div>
   );
 }
