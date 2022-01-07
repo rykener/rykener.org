@@ -15,9 +15,6 @@ function About() {
       <p>
         though initially without the speech bubble or the stubble. i contemplated what someone would be saying on the phone with that look on her face. after that it all just started pouring out of me, and i made the 13 panels for the zine in about a week. i’m really delighted to be sharing this work with others. it has been exceptionally cathartic for me to make this, and i hope that some trans people who read it can find that catharsis as well.
       </p>
-      <p>
-        it was always about being seen.
-      </p>
       <p>stay gay,<br/>eleanor</p>
     </div>
   );

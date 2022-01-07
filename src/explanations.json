@@ -4,7 +4,7 @@
       {
         "title": "cover",
         "img": "01_cover",
-        "text": "---"
+        "text": "Northern California Kaiser has a notoriously bad mental health system."
       },
       {
         "title": "Cigna PPO",
@@ -12,9 +12,9 @@
         "text": "Even when health insurance says that something is \"covered\", many trans folks experience bureaucratic issues surrounding gender affirming services and procedures. Some health insurance companies even have a policy that all gender affirming services and procedures will be initially denied, and then will approve them only after an appeal is filed. That process of initial denial before appeal is clearly defined in the policy documentation . This panel is inspired by a woman having her laser hair removal denied by Cigna PPO for over 8 months."
       },
       {
-        "title": "Out of Network Benefits (needs link and unsafe html)",
+        "title": "Out of Network Benefits",
         "img": "04",
-        "text": "Many health insurance companies will only cover surgeries from a narrow set of surgeons, which are often surgeons who work for major hospital systems. Many gender affirming surgeries are difficult procedures that require extremely specialized training. It’s not uncommon to find surgeons doing procedures on trans folks who do not have adequate training to be doing them. The causes of this are complex and have a significant history, and you can read a lot about in here [link to that insane article on r/transgender_surgeries]. <br/> When folks are faced with such terrible choices, they often elect to pay cash for surgeries with more competent surgeons. Many of us turn to Go Fund Me for this, as surgeries can range between $5,000 and $65,000, plus recovery costs. "
+        "text": "Many health insurance companies will only cover surgeries from a narrow set of surgeons, which are often surgeons who work for major hospital systems. Many gender affirming surgeries are difficult procedures that require extremely specialized training. It’s not uncommon to find surgeons doing procedures on trans folks who do not have the adequate training to be doing them. The causes of this are complex and have a significant history, which you can read a lot about <a target=\"_blank\" href=\"https://jezebel.com/when-surgeons-fail-their-trans-patients-1844774990\">here</a>.<br/><br/> When folks are faced with such terrible choices, they often elect to pay cash for surgeries with more competent surgeons. However, <a target=\"_blank\" href=\"https://williamsinstitute.law.ucla.edu/publications/lgbt-poverty-us/\">trans folks are twice as likely as cishet folks to live in poverty</a>, and even for those of us who don't live in poverty, the surgeries are still often prohibitively expensive. So folks turn to Go Fund Me to get community help with surgery fees, which can range between $5,000 and $65,000, plus recovery costs. "
       },
       {
         "title": "$13,000 Later",
@@ -29,47 +29,47 @@
       {
         "title": "Medicaid Coverage Gap",
         "img": "07",
-        "text": "---"
+        "text": "In the US, folks who make under a certain income are eligible for Medicaid health insurance. This panel was inspired by a dear friend who, after 18 months on a waiting list for his top surgery had his income increase by a miniscule amount. It was literally the difference between making $16,000 one year and $17,000 the next. That income difference made him lose his health insurance and he was not able to afford replacement coverage. Because of this he had to cancel his top surgery and eventually electeded to organize a GoFundMe to cover it."
       },
       {
         "title": "Controlled Substance",
         "img": "08",
-        "text": "---"
+        "text": "Testosterone, the life saving hormal treatment for transmasc individuals, is an FDA controlled substance. Because of this, if a pharmacy runs out of stock of the generic version of T you are unable to call around and find a place that does have the generic version. They can't release that info about a controlled substance. And because health insurance sucks, getting the non-generic version of the drug is often outrageously expensive."
       },
       {
-        "title": "Insurance Kinks",
+        "title": "Repeated Denials (Insurance Kinks)",
         "img": "09",
         "text": "See explanation for panel #2, \"Cigna PPO\". This is a joke, but the crocs are serious."
       },
       {
         "title": "Trauma Therapist Navigates Kaiser",
         "img": "10",
-        "text": "---"
+        "text": "See the cover of the zine lol."
       },
       {
         "title": "Support Ur Siblings",
         "img": "11",
-        "text": "---"
+        "text": "As if dealing with insurance folks on the phone wasn't upsetting enough, getting persistently misgendered when calling health insurance is super common. Even for folks who have their legal name and gender marker updated. It helps A LOT to call insurance with the support of a friend, maybe they'll even talk for you."
       },
       {
         "title": "Gatekeeping",
         "img": "12",
-        "text": "---"
+        "text": "Letters. Letters. Letters"
       },
       {
         "title": "Looking for Work",
         "img": "13",
-        "text": "---"
+        "text": "You could work a fancy Bay Area tech job that has garbage insurance, making $100,000/year or you could work a medicore non-profit job with great insurance making $60,000/year. If you need a $65,000 surgery that the non-profit's insurance would cover, you're still gonna come out on top with the paycut... especially if you consider the long terms costs of transition, it's highly possible this situation would recur"
       },
       {
         "title": "Why I'm an Anti-Capitalist",
         "img": "14",
-        "text": "I personally find it hard to say that there are architects that specifically hate trans people, and that’s why they make health insurance the way they do. I think it’s more so that they don’t care about us and don’t care to learn anything about us. That ignorance, plus the drive for profit, creates discriminatory systems. But I’m literally just some rando, don’t listen to me, read a book about redlining and tell me how systemic oppression really works."
+        "text": "I personally find it hard to say that there are architects that specifically hate trans people, like JKR, and that’s why they make health insurance the way they do. I think it’s more so that they don’t care about us and don’t care to learn anything about us. That ignorance, plus the drive for *profit*, creates discriminatory systems. But I’m literally just some random white girl on the internet with a goofy name, don’t listen to me, read a book about redlining and tell me how systemic oppression really works."
       },
       {
         "title": "An Unsanctioned Cure",
         "img": "15",
-        "text": "Ketamine, commonly known as a \"horse tranquilizer\" or a party drug, is a highly effective anti-depressant when used in a specific manner (50-70mg every 72hrs). Insurance will rarely cover the drug or the appointments to get the drug. When prescribed, it often comes in a nasal spray, and is not snorted as depicted in this panel. Because the street drug is substantially cheaper than having to pay a doctor AND the pharmacy… it makes financial sense to just get it illegally. The person in the panel is being depicted as doing WAY more ketamine than required for her depression, don’t try this at home."
+        "text": "Ketamine, commonly known as a \"horse tranquilizer\" or a party drug, is a highly effective anti-depressant when used in a specific manner (~70mg intranasally every 72hrs). Insurance will rarely cover the drug or the appointments to get the drug. When prescribed, it often comes in a nasal spray, not a powder as depicted in this panel. Because the street drug is substantially cheaper than having to pay a doctor in cash AND the pharmacy… it kinda makes sense to just get it from your friendly neighborhood k dealer."
       }
     ]
 }

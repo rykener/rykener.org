@@ -17,8 +17,8 @@ const Panel = (props) => {
   return (
     <div style={{padding: "2em 0"}}>
       <h2>{props.title}</h2>
-      <img src={`/smallest/${props.img}.png`} alt=""/>
-      <p>{props.text}</p>
+      <img src={`/exp/${props.img}.png`} alt=""/>
+      <p dangerouslySetInnerHTML={{__html: props.text}}></p>
     </div>
   )
 }
