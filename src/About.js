@@ -3,7 +3,7 @@ function About() {
     <div class="narrow-content">
       <h1>about</h1>
       <p>
-        in a sea of despair, i called my insurance company. and then i had to call again. and then i had to call again. as a pandemic tran, i navigated one health insurance nightmare after another, almost always alone… in isolation from others as covid raged on. i felt very tiny.
+        in a sea of despair, i called my insurance company. and then i had to call again. and then i had to call again. as a quarantran, i navigated one health insurance nightmare after another, almost always alone… in isolation from others as covid raged on. i felt very tiny.
       </p>
       <p>
       over time i began to branch out. i had more trans people in my life, and as i did, i noticed how our conversations about health insurance seemed to go. i noticed that when i was alone with another trans person, and when we were really connecting emotionally, that the conversation so frequently turned to our struggles with health insurance. inspired by amy berkowitz, i thought how beautiful it would be to create an art series capturing the places where two trans people talked about health insurance. i never considered that i could be the one to make it.
