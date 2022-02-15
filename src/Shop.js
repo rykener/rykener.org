@@ -1,5 +1,4 @@
 import promo from "./img/promo_img.jpg";
-import { Link } from "react-router-dom";
 
 function Shop() {
   return (
