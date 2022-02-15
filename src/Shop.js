@@ -5,10 +5,10 @@ function Shop() {
   return (
     <div class="narrow-content">
       <h1>shop</h1>
-      <Link to="/zine">
+      <a href="https://www.etsy.com/listing/1159704899/trans-people-talk-about-health-insurance" rel="noreferrer" target="_blank">
         <img src={promo} alt="cover"/>
         <h3>trans people talk about health insurance zine - $10</h3>
-      </Link>
+      </a>
     </div>
   );
 }

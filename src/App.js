@@ -20,9 +20,6 @@ function App() {
             <span className="brand">eleanor rykener</span>
           </Link>
           <div className="flex-container">
-            SITE UNDER CONSTRUCTION
-          </div>
-          <div className="flex-container">
             <Link to="/shop">shop</Link>
             <Link to="/about">about</Link>
             <Link to="/contact">contact</Link>
