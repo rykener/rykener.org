@@ -1,0 +1,120 @@
+import './App.css';
+import About from './About.js';
+import Contact from './Contact.js';
+import Shop from './Shop.js';
+import Zine from './Zine.js';
+import Explanations from './Explanations.js';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import {
+  Nav,
+  Navbar,
+  NavDropdown,
+  Container
+} from "react-bootstrap";
+
+function App() {
+  return (
+    <Router>
+      <div className="App">
+<nav class="navbar navbar-expand-lg fixed-top bg-light navbar-light">
+    <button
+    class="navbar-toggler"
+    type="button"
+    data-mdb-toggle="collapse"
+    data-mdb-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <i class="fas fa-bars"></i>
+  </button>
+  <div class="container d-flex justify-content-center">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center mb-3">
+        <a class="navbar-brand" href="#"
+        ><img
+          id="MDB-logo"
+          src="https://mdbcdn.b-cdn.net/wp-content/uploads/2018/06/logo-mdb-jquery-small.png"
+          alt="MDB Logo"
+          draggable="false"
+          height="30"
+      /></a>
+      </div>
+      <div class="col-12 d-flex justify-content-center">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav align-items-center mx-auto">
+            <li class="nav-item">
+              <a class="nav-link mx-2" href="#!"><i class="fas fa-plus-circle pe-2"></i>Post</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link mx-2" href="#!"><i class="fas fa-bell pe-2"></i>Alerts</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link mx-2" href="#!"><i class="fas fa-heart pe-2"></i>Trips</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+      <Navbar bg="light" expand="lg">
+        <Container>
+          <Navbar.Brand href="#home">rykener arts</Navbar.Brand>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="me-auto">
+              <Nav.Link href="#shop">Shop</Nav.Link>
+              <Nav.Link href="#home">About</Nav.Link>
+              <Nav.Link href="#link">Contact</Nav.Link>
+              <Nav.Link href="#">Instagram</Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </Container>
+      </Navbar>
+        <div className="flex-container navbar">
+          <Link to="/">
+            <span className="brand">eleanor rykener</span>
+          </Link>
+          <div className="flex-container">
+            <Link to="/shop">shop</Link>
+            <Link to="/about">about</Link>
+            <Link to="/contact">contact</Link>
+            <a href="https://instagram.com/eleanor.rykener">instagram</a>
+          </div>
+        </div>
+      </div>
+
+
+      <div className="main">
+        <Switch>
+          <Route path="/about">
+            <About />
+          </Route>
+          <Route path="/contact">
+            <Contact />
+          </Route>
+          <Route path="/shop">
+            <Shop />
+          </Route>
+          <Route path="/zine">
+            <Zine />
+          </Route>
+          <Route path="/explain">
+            <Explanations />
+          </Route>
+          <Route path="/">
+            <Shop />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
+  );
+}
+
+export default App;
